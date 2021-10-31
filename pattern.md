@@ -1,4 +1,4 @@
-# Face Mask Patter
+# Face Mask Pattern
 
 This describes how to sew a rectangular face mask, with 3 pleats across the
 length. The mask can be attached on the ears or around the head.
